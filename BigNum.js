@@ -1,4 +1,4 @@
-var array = [3, 4, 5, 267, 21, 9];
+var array = [3, 4, 5, 267, 21, 9];//array values
 var largest = 0;
 
     for (i=0; i<array.length; i++) {
